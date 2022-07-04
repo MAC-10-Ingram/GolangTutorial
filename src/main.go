@@ -9,4 +9,6 @@ func main() {
 	fmt.Println(x)
 	y := 100 + 24
 	fmt.Println(y)
+	z := "Bond, James Bond"
+	fmt.Println(z)
 }
